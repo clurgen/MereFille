@@ -24,5 +24,6 @@ Notion mise en oeuvre:
   - Evenements
   - Instanciation de fenêtres
   - Utilisation de composants graphique standards
+  - Héritage
   
 *Langage C#*
